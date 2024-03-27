@@ -8,7 +8,7 @@ Each challenge folder contains the following:
 
 - **sol.py**: Python script for exploiting the vulnerability.
 - **flag.txt**: Flag obtained by exploiting the challenge.
-- **README.md**: Detailed explanation of the vulnerability and the exploit used.
+- **README.md**: Detailed explanation of the vulnerability and the exploit used.(will be added soon )
 
 Feel free to explore the solutions and learn from them. If you have any questions or suggestions, feel free to contact me at [raouf.ard@gmail.com](mailto:raouf.ard@gmail.com).
 
